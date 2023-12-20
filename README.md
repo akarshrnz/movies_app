@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+https://github.com/akarshrnz/movies_app/assets/77736922/26515d9d-5b73-4691-99d7-29ab45171caa
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
